@@ -1,4 +1,4 @@
-![image](https://github.com/sumancvb/sumancvb/blob/master/dino.gif)
+![image](https://github.com/sumancvb/sumancvb/blob/main/dino.gif)
 
 Here are some ideas to get you started:
 
