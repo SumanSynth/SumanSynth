@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 - **IoT Platforms**: Arduino, STM32, TIVA, Simplelink, Raspberry Pi, MQTT,
 - **Firmware Development**: C, C++, Embedded C
 
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanSynth&show_icons=true&theme=radical)
@@ -31,7 +32,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 ## 🔧 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanSynth&layout=compact&theme=radical)
-
+-->
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sumancvb)
