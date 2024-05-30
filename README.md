@@ -27,11 +27,11 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanSynth&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanSynth&show_icons=true&theme=radical&count_private=true)
 
 ## 🔧 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanSynth&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanSynth&layout=compact&theme=radical&count_private=true)
 
 ## 📫 Let's Connect
 
