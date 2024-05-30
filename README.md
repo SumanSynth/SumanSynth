@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 -->
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/sumancvb)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/sumancvb)
 
 Thank you for visiting my profile! Feel free to reach out to me for any collaboration or discussion. Let's build something amazing together! 🚀
