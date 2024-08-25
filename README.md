@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a passionate software developer with a strong
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, Python, C, SQL
+- **Languages**: Java, Python, Go, C, SQL
 - **Frameworks & Libraries**: Spring Boot, Hibernate, Django, JUnit
 - **Tools**: Git, Docker, Kubernetes, Jenkins, Maven, Gradle
 - **Cloud Services**: AWS
